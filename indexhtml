@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>My homepage</title>
+	<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+<h1>Joshua King</h1>
+<h2>First year student</h2>
+
+Portrait
+
+<p>I am a first year business finance major at the University of Maine. My roommate is Michael Conrad and I live in the dorm Cummberland. Im originally from Augusta Maine and have lived there for all of my life. I graduated from Cony high school with a class of 125. Throughout highschool I played soccer and ran track my in my first two years there.</p>
+
+<IMG SRC="stadium.jpg" width="300"
+
+Links to:
+<ul>
+<li><A HREF="umaine.edu"> The University of Maine</A></li>
+<li><A HREF=" "
+</ul>
+
+</body>
+</html>
