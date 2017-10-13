@@ -1,7 +1,7 @@
 h1 { color: red;}
 
 body {
-	background: lightyellow;
+	background: lightgreen;
 	color: navy;
 	font-size: 16;
 	font-family: 'Arvo', serif;
@@ -12,6 +12,4 @@ ul {
 	margin: 20px;
 	background: white;
 	 }
-nav li:hover {color:red; }
 
-table, th, td { border: 1px solid black; border-collapse: collapse }
